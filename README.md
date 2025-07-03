@@ -56,17 +56,16 @@ Use the filters, view the charts, and explore different sales dimensions.
 ## 📁 Folder Structure  
 
 ```
-video-game-sales-analysis/
-├── dashboard/
-│   └── vgsales_dashboard.pbix     # Power BI dashboard file
-├── data/
-│   └── vgsales.csv                # Raw video game sales dataset
-├── images
+vgame/
+├── vgame.pbix
+│  
+├── vgsales.csv
+│  
+├── README.md
 │   
-└── README.md                      # This file
+└── LICENSE                      
 ```
 
----
 
 ## 🛠 Tools Used  
 
