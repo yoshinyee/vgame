@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analysis Dashboard
+# Video Game Sales Analysis Dashboard
 
 ##  Overview  
 This repository contains an interactive **Power BI dashboard** that explores global video game sales data. The dashboard offers insights into trends across genres, platforms, publishers, and regions, helping users better understand the gaming industry and its evolution over time.
@@ -41,7 +41,7 @@ Line chart visualizing global sales trends by release year.
 ### 1. Clone this repository  
 ```bash
 git clone https://github.com/yoshinyee/vgame.git
-cd video-game-sales-analysis
+cd vgame
 ```
 
 ### 2. Open the Power BI file  
@@ -53,7 +53,7 @@ Use the filters, view the charts, and explore different sales dimensions.
 
 ---
 
-## 📁 Folder Structure  
+##  Folder Structure  
 
 ```
 vgame/
@@ -67,10 +67,10 @@ vgame/
 ```
 
 
-## 🛠 Tools Used  
+##  Tools Used  
 
 - **Power BI Desktop** — for building the visuals  
 
 ---
-## 📄 License  
+##  License  
 MIT License © 2025
